@@ -1,6 +1,6 @@
-# v-search
+# i-search
 
-> A Vue.js project
+> A test project
 
 ## Build Setup
 
